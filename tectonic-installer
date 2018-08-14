@@ -1,0 +1,4 @@
+#!/bin/bash
+wget https://releases.tectonic.com/releases/tectonic_1.9.6-tectonic.1.zip \
+&& unzip tectonic_1.9.6-tectonic.1.zip \
+&& cd tectonic_1.9.6-tectonic.1
